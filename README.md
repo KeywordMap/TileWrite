@@ -23,3 +23,7 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 * **Framework**: Developed using the **Flutter** framework for seamless cross-platform performance.
 * **Design Philosophy**: **"Design is engineering"** — prioritizing the mastery of all functions through minimalist and efficient UI/UX.
 * **Current Status**: The macOS version is complete and preparing for commercial release.
+
+
+---
+https://keywordmap.lemonsqueezy.com/checkout/buy/4c320d25-e988-411a-9aff-7bcd2efc76a3
