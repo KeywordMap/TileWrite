@@ -33,3 +33,6 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 
 > [Download] TileWrite 다운로드 링크입니다(준비중). <br>
 > [Buy License] Lemon Squeezy 라이센스 구매 링크입니다.
+> >
+> **Support:** 제품 사용 중 문의사항은 언제든지 아래 메일로 연락해 주세요! <br>
+> 📧 [join@keywordmap.app](mailto:join@keywordmap.app)
