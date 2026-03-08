@@ -34,6 +34,10 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 > [Download] TileWrite 다운로드 링크입니다(준비중). <br>
 > [Buy License] Lemon Squeezy 라이센스 구매 링크입니다.
 > >
+## License Policy
+- 1개의 라이선스로 **최대 3대의 단말기**까지 교차 인증이 가능합니다 (Windows & macOS).
+- 기기 변경 시 기존 기기의 인증을 해제하고 새 기기에서 즉시 사용할 수 있습니다.
+> >
 ## 📬 Contact
 ** 사용 중 궁금한 점이나 라이센스 관련 문의는 하단의 링크를 통해 메세지를 남겨 주세요.
 - **Email:** join@keywordmap.app
