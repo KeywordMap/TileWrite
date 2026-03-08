@@ -1,7 +1,5 @@
 # TileWrite - Not for remembering, but for browsing.
 
-**TileWrite** is a sophisticated, index-based information structuring solution designed to organize and browse vast amounts of data within a high-fidelity hierarchical framework.
-
 <img width="1920" height="1080" alt="랜딩" src="https://github.com/user-attachments/assets/f31c53c6-b19e-455b-a4c5-46087d391e7c" />
 
 ## 🧠 Intellectual Foundation: SIA
