@@ -37,7 +37,7 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 > [Manage License] Lemon Squeezy 라이센스 관리 링크입니다. <br>
 > >
 ## License Policy
-- 1개의 라이선스로 **최대 3대의 단말기**까지 교차 인증이 가능합니다 (Windows & macOS).
+- 1개의 라이센스로 **최대 3대의 단말기**까지 교차 인증이 가능합니다 (Windows & macOS).
 - 기기 변경 시 기존 기기의 인증을 해제하고 새 기기에서 즉시 사용할 수 있습니다.
 > >
 ## 📬 Contact
@@ -46,10 +46,10 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 - **Issue Tracker:** [GitHub Issues](https://github.com/KeywordMap/TileWrite/issues)
 ## 🔑 License Management Guide
 
-라이선스 기기 초과 혹은 단말기 교체 시, 아래 포털을 통해 기존 기기 인증을 원격으로 해제할 수 있습니다.
+라이센스 기기 초과 혹은 단말기 교체 시, 아래 포털을 통해 기존 기기 인증을 원격으로 해제할 수 있습니다.
 
 * **관리 포털**: [Lemon Squeezy My Orders](https://app.lemonsqueezy.com/my-orders)
-* **해제 방법**: 위 링크 접속 후 구매 시 사용한 **이메일 인증** -> 라이선스 키 선택 -> **Active Devices** 목록에서 원하는 기기 해제(Deactivate)
+* **해제 방법**: 위 링크 접속 후 구매 시 사용한 **이메일 인증** -> 라이센스 키 선택 -> **Active Devices** 목록에서 원하는 기기 해제(Deactivate)
 
-> $TileWrite$ 라이선스는 1키당 최대 **3대**의 기기(Windows/macOS 통합)를 지원합니다. <br>
+> $TileWrite$ 라이센스는 1키당 최대 **3대**의 기기(Windows/macOS 통합)를 지원합니다. <br>
 > 기기 분실이나 포맷 시에도 위 포털에서 라이센스 인증을 관리할 수 있습니다.
