@@ -28,11 +28,13 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 ---
 # 🚀 Get Started with TileWrite
 
-[![Download](https://img.shields.io/badge/Download-Free-blue?style=for-the-badge&logo=github)](여기에_릴리즈_페이지_주소)
-[![Buy License](https://img.shields.io/badge/Buy-License-green?style=for-the-badge&logo=lemonsqueezy)](https://keywordmap.lemonsqueezy.com/checkout/buy/4c320d25-e988-411a-9aff-7bcd2efc76a3)
+[![Download](https://img.shields.io/badge/DOWNLOAD-FREE-0366d6?style=flat-square&logo=github)](링크_준비중)
+[![Buy](https://img.shields.io/badge/BUY-LICENSE-yellowgreen?style=flat-square&logo=lemon-squeezy)](Lemon_Squeezy_구매_링크)
+[![Manage](https://img.shields.io/badge/MANAGE-LICENSE-2a7e7e?style=flat-square&logo=keybase)](https://app.lemonsqueezy.com/my-orders)
 
 > [Download] TileWrite 다운로드 링크입니다(준비중). <br>
-> [Buy License] Lemon Squeezy 라이센스 구매 링크입니다.
+> [Buy License] Lemon Squeezy 라이센스 구매 링크입니다. <br>
+> [Manage License] Lemon Squeezy 라이센스 관리 링크입니다. <br>
 > >
 ## License Policy
 - 1개의 라이선스로 **최대 3대의 단말기**까지 교차 인증이 가능합니다 (Windows & macOS).
@@ -42,3 +44,11 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 ** 사용 중 궁금한 점이나 라이센스 관련 문의는 하단의 링크를 통해 메세지를 남겨 주세요.
 - **Email:** join@keywordmap.app
 - **Issue Tracker:** [GitHub Issues](https://github.com/KeywordMap/TileWrite/issues)
+## 🔑 License Management Guide
+
+라이선스 기기 초과 혹은 단말기 교체 시, 아래 포털을 통해 기존 기기 인증을 원격으로 해제할 수 있습니다.
+
+* **관리 포털**: [Lemon Squeezy My Orders](https://app.lemonsqueezy.com/my-orders)
+* **해제 방법**: 위 링크 접속 후 구매 시 사용한 **이메일 인증** -> 라이선스 키 선택 -> **Active Devices** 목록에서 원하는 기기 해제(Deactivate)
+
+> **Note**: $TileWrite$ 라이선스는 1키당 최대 **3대**의 기기(Windows/macOS 교차 가능)를 지원합니다. 기기 분실이나 포맷 시에도 위 포털에서 언제든 사유를 정렬할 수 있습니다.
