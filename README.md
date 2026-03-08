@@ -51,4 +51,5 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 * **관리 포털**: [Lemon Squeezy My Orders](https://app.lemonsqueezy.com/my-orders)
 * **해제 방법**: 위 링크 접속 후 구매 시 사용한 **이메일 인증** -> 라이선스 키 선택 -> **Active Devices** 목록에서 원하는 기기 해제(Deactivate)
 
-> **Note**: $TileWrite$ 라이선스는 1키당 최대 **3대**의 기기(Windows/macOS 교차 가능)를 지원합니다. 기기 분실이나 포맷 시에도 위 포털에서 언제든 사유를 정렬할 수 있습니다.
+> $TileWrite$ 라이선스는 1키당 최대 **3대**의 기기(Windows/macOS 통합)를 지원합니다. <br>
+> 기기 분실이나 포맷 시에도 위 포털에서 라이센스 인증을 관리할 수 있습니다.
