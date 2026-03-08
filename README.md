@@ -32,4 +32,4 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 [![Buy License](https://img.shields.io/badge/Buy-License-green?style=for-the-badge&logo=lemonsqueezy)](https://keywordmap.lemonsqueezy.com/checkout/buy/4c320d25-e988-411a-9aff-7bcd2efc76a3)
 
 > [Download] TileWrite 다운로드 링크입니다. <br>
-> [Buy License] Lemon Squeezy 라이선스 구매 링크입니다.
+> [Buy License] Lemon Squeezy 라이센스 구매 링크입니다.
