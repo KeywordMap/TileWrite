@@ -35,5 +35,6 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 > [Buy License] Lemon Squeezy 라이센스 구매 링크입니다.
 > >
 ## 📬 Contact
+** 사용 중 궁금한 점이나 라이센스 관련 문의는 하단의 링크를 통해 메세지를 남겨 주세요.
 - **Email:** join@keywordmap.app
 - **Issue Tracker:** [GitHub Issues](https://github.com/KeywordMap/TileWrite/issues)
