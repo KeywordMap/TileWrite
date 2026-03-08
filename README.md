@@ -26,4 +26,10 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 
 
 ---
-https://keywordmap.lemonsqueezy.com/checkout/buy/4c320d25-e988-411a-9aff-7bcd2efc76a3
+# 🚀 Get Started with TileWrite
+
+[![Download](https://img.shields.io/badge/Download-Free-blue?style=for-the-badge&logo=github)](여기에_릴리즈_페이지_주소)
+[![Buy License](https://img.shields.io/badge/Buy-License-green?style=for-the-badge&logo=lemonsqueezy)](여기에_레몬스퀴즈_결제주소)
+
+> **Tip:** TileWrite는 누구나 자유롭게 다운로드하여 설치할 수 있습니다. 
+> 모든 기능을 활성화하려면 라이선스 키를 구매하여 앱 내에서 인증해 주세요.
