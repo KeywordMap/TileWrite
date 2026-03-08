@@ -31,5 +31,5 @@ The core value of TileWrite lies in its unique ability to output and explore inf
 [![Download](https://img.shields.io/badge/Download-Free-blue?style=for-the-badge&logo=github)](여기에_릴리즈_페이지_주소)
 [![Buy License](https://img.shields.io/badge/Buy-License-green?style=for-the-badge&logo=lemonsqueezy)](https://keywordmap.lemonsqueezy.com/checkout/buy/4c320d25-e988-411a-9aff-7bcd2efc76a3)
 
-> **Tip:** TileWrite는 누구나 자유롭게 다운로드하여 설치할 수 있습니다. 
-> Lemon Squeezy에서 라이선스 키를 구매하여 앱 내에서 인증해 주세요.
+> [Download] TileWrite 다운로드 링크입니다. <br>
+> [Buy License] Lemon Squeezy 라이선스 구매 링크입니다.
